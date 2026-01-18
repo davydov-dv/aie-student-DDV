@@ -1,0 +1,40 @@
+{
+  "S07-hw-dataset-01": {
+    "algo": {
+      "DBSCAN": {
+        "params": {
+          "eps": 0.6,
+          "min_samples": 6
+        }
+      }
+    }
+  },
+  "S07-hw-dataset-02": {
+    "algo": {
+      "Kmeans": {
+        "k": 16
+      }
+    }
+  },
+  "S07-hw-dataset-03": {
+    "algo": {
+      "Agglomerative": {
+        "params": {
+          "k": 4,
+          "linkage": "ward"
+        }
+      }
+    }
+  },
+  "S07-hw-dataset-04": {
+    "algo": {
+      "DBSCAN": {
+        "params": {
+          "eps": 2.5,
+          "min_samples": 6
+        }
+      }
+    }
+  },
+  "random_state": 42
+}
