@@ -1,0 +1,8 @@
+experiment_id,dataset,seed,model_summary,optimizer,lr,momentum,weight_decay,epochs_trained,best_val_accuracy,best_val_loss
+E1,CIFAR10,42,"256, 128 / ReLU / 0.0 / False",Adam,0.001,0.0,0.0,20,0.5299,1.3852
+E2,CIFAR10,42,"256, 128 / ReLU / 0.2 / False",Adam,0.001,0.0,0.0,20,0.5379,1.3409
+E3,CIFAR10,42,"256, 128 / ReLU / 0.0 / True",Adam,0.001,0.0,0.0,20,0.5503,1.2967
+E4,CIFAR10,42,"256, 128 / ReLU / 0.0 / True",Adam,0.001,0.0,0.0,17,0.5503,1.2967
+O1,CIFAR10,42,"256, 128 / ReLU / 0.0 / True",Adam,0.1,0.0,0.0,8,0.4781,1.5026
+O2,CIFAR10,42,"256, 128 / ReLU / 0.0 / True",Adam,1e-05,0.0,0.0,8,0.4855,1.5198
+O3,CIFAR10,42,"256, 128 / ReLU / 0.0 / True",SGD,0.001,0.9,0.0001,15,0.5428,1.3247
