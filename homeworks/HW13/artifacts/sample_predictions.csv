@@ -1,0 +1,16 @@
+model,dataset,text,true_label,pred_label,confidence
+bhadresh-savani/distilbert-base-uncased-emotion,emotion,i didnt feel humiliated,sadness,sadness,1.0
+bhadresh-savani/distilbert-base-uncased-emotion,emotion,i can go from feeling so hopeless to so damned hopeful just from being...,sadness,sadness,1.0
+bhadresh-savani/distilbert-base-uncased-emotion,emotion,im grabbing a minute to post i feel greedy wrong,anger,anger,1.0
+bhadresh-savani/distilbert-base-uncased-emotion,emotion,i am ever feeling nostalgic about the fireplace i will know that it is...,love,love,1.0
+bhadresh-savani/distilbert-base-uncased-emotion,emotion,i am feeling grouchy,anger,anger,1.0
+google/electra-small-discriminator,emotion,im feeling rather rotten so im not very ambitious right now,sadness,sadness,0.8505
+google/electra-small-discriminator,emotion,i don t feel particularly agitated,sadness,fear,0.4013
+google/electra-small-discriminator,emotion,im not sure the feeling of loss will ever go away but it may dull to a sweet feeling of nostalgia at what i shared in this life with my ...,sadness,joy,0.3927
+google/electra-small-discriminator,emotion,ive been missing him and feeling so restless at home thinking of him,joy,fear,0.4087
+google/electra-small-discriminator,emotion,i feel if i completely hated things i d exercise my democratic right speak my mind in what ever ways possible and try to enact a change,sadness,sadness,0.5448
+google/electra-small-discriminator,emotion,i stood up to you i finally stood up to you and now i feel like im being punished if i could go back and do it again,fear,sadness,0.845
+google/electra-small-discriminator,emotion,i woke up yesterday monday morning feeling a little depressed,anger,sadness,0.8489
+google/electra-small-discriminator,emotion,i think they have always been proponents of the idea and it is just slightly possible that his feelings for a particularly charming new ..,joy,joy,0.8995
+google/electra-small-discriminator,emotion,i feel privileged in my world,joy,joy,0.9204
+google/electra-small-discriminator,emotion,i have a feeling that people are using it more than they need to and enjoying the feeling as it flies carefree off the tongue but that i...,anger,joy,0.8945
