@@ -1,0 +1,34 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Виртуальные окружения
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Данные (не нужны в образе)
+data/
+
+# Тесты
+tests/
+.pytest_cache/
+
+# Логи
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
